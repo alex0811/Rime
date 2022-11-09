@@ -2,18 +2,18 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
-    default.custom: 1656403470
-    double_pinyin.custom: 1656403470
-    double_pinyin.schema: 1656403470
-    grammar: 1656403471
-    grammar.custom: 1656403471
+    default.custom: 1664009524
+    double_pinyin.custom: 1664009524
+    double_pinyin.schema: 1664009524
+    grammar: 1664009524
+    grammar.custom: 1664009524
     key_bindings: 1613228859
     key_bindings.custom: 0
-    lua_select_character: 1656403471
+    lua_select_character: 1664009524
     lua_select_character.custom: 0
     punctuation: 1613228859
     punctuation.custom: 0
-    symbols: 1656403471
+    symbols: 1664009525
     symbols.custom: 0
 custom_phrase:
   db_class: stabledb
