@@ -1,7 +1,16 @@
 var:
+<<<<<<< HEAD
   last_build_time: 1656597496
   previously_selected_schema: luna_pinyin
   schema_access_time:
     double_pinyin_flypy: 1665933195
     easy_en: 1649224404
     luna_pinyin: 1665933634
+=======
+  last_build_time: 1664009529
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    double_pinyin_flypy: 1666251479
+    easy_en: 1649224404
+    luna_pinyin: 1667204660
+>>>>>>> 659a866b2bff608e5e1f9c8bc738c92e0cf7992b
