@@ -2,9 +2,15 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
+<<<<<<< HEAD
+    default.custom: 1656597472
+    easy_en.custom: 0
+    easy_en.schema: 1656597472
+=======
     default.custom: 1664009524
     easy_en.custom: 0
     easy_en.schema: 1664009524
+>>>>>>> 659a866b2bff608e5e1f9c8bc738c92e0cf7992b
     key_bindings: 1613228859
     key_bindings.custom: 0
     punctuation: 1613228859

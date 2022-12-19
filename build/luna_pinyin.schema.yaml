@@ -2,6 +2,16 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
+<<<<<<< HEAD
+    default.custom: 1656597472
+    grammar: 1656597472
+    grammar.custom: 1656597472
+    key_bindings: 1613228859
+    key_bindings.custom: 0
+    lua_select_character: 1656597472
+    lua_select_character.custom: 0
+    luna_pinyin.custom: 1656597472
+=======
     default.custom: 1664009524
     grammar: 1664009524
     grammar.custom: 1664009524
@@ -10,12 +20,17 @@ __build_info:
     lua_select_character: 1664009524
     lua_select_character.custom: 0
     luna_pinyin.custom: 1664009525
+>>>>>>> 659a866b2bff608e5e1f9c8bc738c92e0cf7992b
     luna_pinyin.schema: 1613228859
     pinyin: 1613228859
     pinyin.custom: 0
     punctuation: 1613228859
     punctuation.custom: 0
+<<<<<<< HEAD
+    symbols: 1656597473
+=======
     symbols: 1664009525
+>>>>>>> 659a866b2bff608e5e1f9c8bc738c92e0cf7992b
     symbols.custom: 0
 custom_phrase:
   db_class: stabledb
